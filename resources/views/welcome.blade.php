@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Realtime Private Chat
                 </div>
-                <div>created by ayyappan</div>
+                <div>created by ayyappan developer</div>
             </div>
         </div>
     </body>
